@@ -1,2 +1,2 @@
 # Aerofit
-AEROFIT Descriptive Statistics &amp; Probability Project
+AEROFIT: Descriptive Statistics &amp; Probability Project
